@@ -1,2 +1,2 @@
 # Telekinesis
-Telekinesis superpowers with Arudino and Mindflex hacks
+Telekinesis superpowers with Arduino and Mindflex hacks
