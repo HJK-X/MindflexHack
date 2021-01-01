@@ -1,5 +1,5 @@
-# Telekinesis
-Telekinesis superpowers with Arduino and Mindflex hacks
+# Mindflex Hacking
+Hacking the Mindflex to retrieve raw EEG values from brainwaves
 
 
 Instructions:
